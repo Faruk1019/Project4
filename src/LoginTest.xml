@@ -1,0 +1,8 @@
+<suite name="Login Test Suite">
+    <test name="Login Test">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="Test._01_LoginTest"></class>
+        </classes>
+    </test>
+</suite>

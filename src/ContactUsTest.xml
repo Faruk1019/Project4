@@ -1,0 +1,31 @@
+<suite name="Contact Us Test Suite">
+
+    <test name="Contact Us Test1">
+        <parameter name="text1" value="this website so slow!"></parameter>
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="Test._02_ContactUsTest"></class>
+        </classes>
+    </test>
+
+
+    <test name="Contact Us Test2">
+        <parameter name="text1" value="who build this website!"></parameter>
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="Test._02_ContactUsTest"></class>
+        </classes>
+    </test>
+
+
+    <test name="Contact Us Test3">
+        <parameter name="text1" value="you need to be faster!"></parameter>
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="Test._02_ContactUsTest"></class>
+        </classes>
+    </test>
+
+
+
+</suite>
